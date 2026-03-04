@@ -31,11 +31,11 @@
   },
   "Delay":{
    "heartbeat": 300000,
-   "DataReport": 3000
+   "DataReport": 1000
   },
   "JSONDownload": {
     "url": "https://raw.githubusercontent.com/yogitasutar/OTARepo/main/CONFIG.txt",
-    "interval_min": 5
+    "interval_min": 3
   },
   "OTA": {
     "GITHUB_API_URL":"https://api.github.com/repos/yogitasutar/OTARepo/releases/latest",
