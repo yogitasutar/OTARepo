@@ -20,14 +20,14 @@
     "enable": true,
     "url": "mqtt://192.168.1.13:1883",
     "topics": {
-      "data": "CS1/MAC/DATA",
+      "data": "CS1",
       "heartbeat": "CS1/MAC/HB",
       "otalog": "CS1/MAC/OTA"
     }
   },
    "Version": {
-    "V": "V1.2",
-    "JsonVersion": "V1.2"
+    "V": "V1.3",
+    "JsonVersion": "V1.3"
   },
   "Delay":{
    "heartbeat": 300000,
