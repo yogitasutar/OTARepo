@@ -13,7 +13,7 @@
   ],
 
   "DeviceID": {
-    "ID": yogita"
+    "ID": "yogita"
   },
 
   "mqtt": {
