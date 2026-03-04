@@ -26,14 +26,17 @@
     }
   },
    "Version": {
-    "V": "V1.8",
-    "JsonVersion": "V1.8"
+    "V": "V1.9",
+    "JsonVersion": "V1.9"
   },
   "Delay":{
    "heartbeat": 300000,
    "DataReport": 1000
   },
-
+  "JSONDownload": {
+    "url": "https://raw.githubusercontent.com/yogitasutar/OTARepo/main/CONFIG.txt",
+    "interval_min": 5
+  },
   "OTA": {
     "GITHUB_API_URL":"https://api.github.com/repos/yogitasutar/OTARepo/releases/latest",
     "GITHUB_ROLLBACK_JSON": "https://raw.githubusercontent.com/Shreyakadam1/test-repo/refs/heads/main/rollback.json",
