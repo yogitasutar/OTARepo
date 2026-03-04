@@ -13,7 +13,7 @@
   ],
 
   "DeviceID": {
-    "ID": "D099"
+    "ID": yogita"
   },
 
   "mqtt": {
@@ -26,12 +26,12 @@
     }
   },
    "Version": {
-    "V": "V1.10",
-    "JsonVersion": "V1.10"
+    "V": "V1.11",
+    "JsonVersion": "V1.11"
   },
   "Delay":{
    "heartbeat": 300000,
-   "DataReport": 1000
+   "DataReport": 3000
   },
   "JSONDownload": {
     "url": "https://raw.githubusercontent.com/yogitasutar/OTARepo/main/CONFIG.txt",
