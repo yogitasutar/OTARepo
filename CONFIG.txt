@@ -7,8 +7,8 @@
 
   "wifi": [
     {
-      "ssid": "Sectrconsol_4G",
-      "password": "Gitar@7671"
+      "ssid": "vivo Y21T",
+      "password": "Yogitasutar"
     }
   ],
 
@@ -26,8 +26,8 @@
     }
   },
    "Version": {
-    "V": "V1.7",
-    "JsonVersion": "V1.7"
+    "V": "V1.8",
+    "JsonVersion": "V1.8"
   },
   "Delay":{
    "heartbeat": 300000,
