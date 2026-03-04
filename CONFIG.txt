@@ -26,8 +26,8 @@
     }
   },
    "Version": {
-    "V": "V1.1",
-    "JsonVersion": "V1.1"
+    "V": "V1.10",
+    "JsonVersion": "V1.10"
   },
   "Delay":{
    "heartbeat": 300000,
