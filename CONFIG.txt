@@ -7,8 +7,8 @@
 
   "wifi": [
     {
-      "ssid": "Sectrconsol_4G",
-      "password": "Gitar@7671"
+      "ssid": "vivo Y21T",
+      "password": "Yogitasutar"
     }
   ],
 
@@ -20,18 +20,18 @@
     "enable": true,
     "url": "mqtt://192.168.1.13:1883",
     "topics": {
-      "data": "CS1",
+      "data": "CS1/MAC/DATA",
       "heartbeat": "CS1/MAC/HB",
       "otalog": "CS1/MAC/OTA"
     }
   },
    "Version": {
-    "V": "V1.5",
-    "JsonVersion": "V1.5"
+    "V": "V1.6",
+    "JsonVersion": "V1.6"
   },
   "Delay":{
    "heartbeat": 300000,
-   "DataReport": 2000
+   "DataReport": 1000
   },
 
   "OTA": {
