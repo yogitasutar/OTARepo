@@ -40,6 +40,6 @@
     "GITHUB_API_URL":"https://api.github.com/repos/yogitasutar/OTARepo/releases/latest",
     "GITHUB_ROLLBACK_JSON": "https://raw.githubusercontent.com/Shreyakadam1/test-repo/refs/heads/main/rollback.json",
     "GITHUB_ROLLBACK_FIRMWARE": "https://github.com/Shreyakadam1/test-repo/releases/download/%s/app-template.bin",
-    "OTATime": "110600,1"
+    "OTATime": "152000,1"
   }
 }
