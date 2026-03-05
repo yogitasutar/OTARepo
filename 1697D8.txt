@@ -1,0 +1,45 @@
+{
+  "file": {
+    "path1": "/DATA2.txt",
+    "path2": "/HB2.txt",
+    "path3": "/ERR2.txt"
+  },
+
+  "wifi": [
+    {
+      "ssid": "vivo Y21T",
+      "password": "Yogitasutar"
+    }
+  ],
+
+  "DeviceID": {
+    "ID": "D099"
+  },
+
+  "mqtt": {
+    "enable": true,
+    "url": "mqtt://192.168.1.13:1883",
+    "topics": {
+      "data": "CS2/MAC/DATA",
+      "heartbeat": "CS2/MAC/HB",
+      "otalog": "CS2/MAC/OTA"
+    }
+  },
+   "Version": {
+    "V": "V1.1",
+    "JsonVersion": "V1.1"
+  },
+  "Delay":{
+   "heartbeat": 300000,
+   "DataReport": 1000
+  },
+  "JSONDownload": {
+    "interval_min": 5
+  },
+  "OTA": {
+    "GITHUB_API_URL":"https://api.github.com/repos/yogitasutar/OTARepo/releases/latest",
+    "GITHUB_ROLLBACK_JSON": "https://raw.githubusercontent.com/Shreyakadam1/test-repo/refs/heads/main/rollback.json",
+    "GITHUB_ROLLBACK_FIRMWARE": "https://github.com/Shreyakadam1/test-repo/releases/download/%s/app-template.bin",
+    "OTATime": "151500,1"
+  }
+}
