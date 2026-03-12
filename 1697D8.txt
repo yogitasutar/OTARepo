@@ -1,9 +1,9 @@
 
 {
   "file": {
-    "path1": "/DATA2.txt",
-    "path2": "/HB2.txt",
-    "path3": "/ERR2.txt"
+    "path1": "/DATA1.txt",
+    "path2": "/HB1.txt",
+    "path3": "/ERR1.txt"
   },
 
   "wifi": [
@@ -14,21 +14,21 @@
   ],
 
   "DeviceID": {
-    "ID": "D02"
+    "ID": "D01"
   },
 
   "mqtt": {
     "enable": true,
     "url": "mqtts://192.168.21.85:8883",
     "topics": {
-      "data": "CS2/MAC/DATA",
-      "heartbeat": "CS2/MAC/HB",
-      "otalog": "CS2/MAC/OTA"
+      "data": "CS1/MAC/DATA",
+      "heartbeat": "CS1/MAC/HB",
+      "otalog": "CS1/MAC/OTA"
     }
   },
 
    "Version": {
-    "V": "V1.2"
+    "V": "V1.1"
   },
 
   "Delay":{
