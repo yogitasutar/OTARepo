@@ -41,7 +41,7 @@
   },
 
    "LocalServerOTA":{
-	"LocalServerOTATime":"1000,1",
+	"LocalServerOTATime":"0100,1",
 	"LocalOTAUrl":"https://192.168.21.85/ota/version.json"
    },
 
