@@ -25,7 +25,7 @@
       "data": "CS1/MAC/DATA",
       "heartbeat": "CS1/MAC/HB",
       "otalog": "CS1/MAC/OTA",
-      "sysinfo": :CS1/MAC/SYSINFO"
+      "sysinfo":"CS1/MAC/SYSINFO"
     }
   },
 
