@@ -28,7 +28,7 @@
   },
 
    "jsonfileversion": {
-    "v": "V1.6"
+    "v": "V1.5"
   },
 
   "delay":{
