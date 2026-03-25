@@ -31,7 +31,7 @@
 	},
 
 "jsonfileversion": {
-	"v": "V1.1"
+	"v": "V1.2"
 	},
 
 "delay":{
@@ -40,7 +40,7 @@
 	},
 
 "github_json_download": {
-	"interval_min": 10
+	"interval_min": 3
 	},
 
 "localserverota":{
